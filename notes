@@ -1,0 +1,10 @@
+First Idea:
+Create a Pokemon game that has a story line and the goal to 'catch 'em all' in a restricted area.
+
+Pygame seems to be a good resource for creating a video game
+Using a binary installer for pygame so it can be compiled in the background
+Also installing pyObjC 1.4
+
+After hours using pygame, I am not finding it as intuitive as VPython. I will now code my game in VPython and then transfer over to pygame 
+if time allows.
+
