@@ -8,3 +8,25 @@ Also installing pyObjC 1.4
 After hours using pygame, I am not finding it as intuitive as VPython. I will now code my game in VPython and then transfer over to pygame 
 if time allows.
 
+I'm now considering learning swift because that would be more useful to me than a Pokemon game. Here's my idea for a Pokemon game though
+if I change my mind again:
+
+a 20x15 plot of land:
+..###..####....#####     #=wall block
+#....###....###....#     .=cave ground block
+......#...###......#     0=cave enterance
+###0###########0####     !=grass
+!!!!!!!#!!!#!!!!!!!!     *=water
+!!!!!!!!!!!!!!****!!
+!!!!!!!!!!!!!******!
+!!!!!!!!!!!!!*****!!
+!!!!!!!#!!!#!!!!!!!!
+!!!!!!!#!!!#!!!!!!!!
+!!!!!!!#!!!#!!!!!!!!
+!!!!!!!#!!!#!!!!!!!!
+!!!!!!!#!!!#!!!!!!!!
+!!!!!!!#!!!#!!!!!!!!
+!!!!!!!#!!!#!!!!!!!!
+
+Rarest Pokemon = Makechan 2% encounter rate
+
